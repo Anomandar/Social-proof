@@ -12,7 +12,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -53,11 +52,6 @@ To see how you can add code snippets, see below:
 ### Continued development
 
 Would like to be able to code faster and attack problems more abstractly
-
-
-## Author
-
-Bill Adepoju
 
 
 ## Acknowledgments

@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/Bill-Adepoju/Social-proof)
-- Live Site URL:(https://bill-adepoju.github.io/Social-proof/)
+- Solution URL:(https://github.com/Anomandar/Social-proof)
+- Live Site URL:(https://anomandar.github.io/Social-proof/)
 
 ## My process
 
